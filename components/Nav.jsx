@@ -30,26 +30,26 @@ export default function Nav(){
             <svg className="fill-current" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z"/></svg>
           </a>
           <ul className="bg-base-300 p-2">
-            <li><a>Intrests</a></li>
-            <li><a>Fun Facts</a></li>
+            <li><a href="/About/Intrests">Intrests</a></li>
+            <li><a href="/About/FunFacts">Fun Facts</a></li>
           </ul>
         </li>
-        <li><a>Goals</a></li>
+        <li><a href="/Goals">Goals</a></li>
       </ul>
     </div>
-    <a className="btn btn-ghost normal-case text-xl">ارميا ايهاب صموئيل</a>
+    <a href="/" className="btn btn-ghost normal-case text-xl">ارميا ايهاب صموئيل</a>
   </div>
   <div className="navbar-center hidden lg:flex ">
     <ul className="bg-base-300 menu menu-horizontal p-0">
-      <li><a>Home</a></li>
+      <li><a href="/">Home</a></li>
       <li tabindex="0">
         <a>
           About
           <svg className="fill-current" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z"/></svg>
         </a>
         <ul className="bg-base-300 p-2">
-          <li><a>Intrests</a></li>
-          <li><a>Fun Facts</a></li>
+          <li><a href="/About/Intrests">Intrests</a></li>
+          <li><a href="/About/FunFacts">Fun Facts</a></li>
         </ul>
       </li>
       <li><a>Goals</a></li>

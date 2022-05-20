@@ -13,15 +13,16 @@ export default function Gallery(){
 		  </div>
 </div>
 
-			<div class="card w-96 bg-base-300 shadow-xl">
-		  <figure><img className="p-4" src="https://cdn.iconscout.com/icon/free/png-256/task-list-1605663-1361014.png" alt="To Do List" /></figure>
-		  <div class="card-body">
-		    <h2 class="card-title">To Do List</h2>
-		    <p>Fun To Do List App</p>
-		    <div class="card-actions justify-end">
-		      <a href="https://nextjs-todoapp.vercel.app"><button class="btn btn-primary">Open</button></a>
-		    </div>
-		  </div>
+		<div class="card w-96 bg-base-300 shadow-xl">
+		<figure><img className="p-4" src="https://cdn.iconscout.com/icon/free/png-256/task-list-1605663-1361014.png" alt="To Do List" /></figure>
+		<div class="card-body">
+		<h2 class="card-title">To Do List</h2>
+		<p>Fun To Do List App</p>
+		<div class="card-actions justify-end">
+		  <a href="https://nextjs-todoapp.vercel.app"><button class="btn btn-primary">Open</button></a>
+		</div>
+		</div>
+
 </div>
 
 			<div class="card w-96 bg-base-300 shadow-xl">

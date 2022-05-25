@@ -34,7 +34,30 @@ export default function Nav(){
             <li><a href="/About/FunFacts">Fun Facts</a></li>
           </ul>
         </li>
-        <li><a href="/Goals">Goals</a></li>
+				<li tabindex="0">
+          <a className="justify-between">
+            Writing Peices
+            <svg className="fill-current" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z"/></svg>
+          </a>
+          <ul className="bg-base-300 p-2">
+            
+            <li><a href="/Writing/ArgEssay">Argumentative Essay</a></li>
+						<li><a href="/Writing/LitEssay">Literary Essay</a></li>
+          </ul>
+        </li>
+
+
+				<li tabindex="0">
+          <a className="justify-between">
+            Presentations
+            <svg className="fill-current" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z"/></svg>
+          </a>
+          <ul className="bg-base-300 p-2">
+            <li><a href="/Pres/Allusions">Allusions</a></li>
+            <li><a href="/Pres/Conjunctions">Conjunctions</a></li>
+						<li><a href="/Pres/RightToRepair">Right To Repair</a></li>
+          </ul>
+        </li>
       </ul>
     </div>
     <a href="/" className="btn btn-ghost normal-case text-xl">ارميا ايهاب صموئيل</a>
@@ -52,7 +75,29 @@ export default function Nav(){
           <li><a href="/About/FunFacts">Fun Facts</a></li>
         </ul>
       </li>
-      <li><a>Goals</a></li>
+						<li tabindex="0">
+          <a className="justify-between">
+            Writing Peices
+            <svg className="fill-current" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z"/></svg>
+          </a>
+          <ul className="bg-base-300 p-2">
+            <li><a href="/Writing/ArgEssay">Argumentative Essay</a></li>
+						<li><a href="/Writing/LitEssay">Literary Essay</a></li>
+          </ul>
+        </li>
+
+
+				<li tabindex="0">
+          <a className="justify-between">
+            Presentations
+            <svg className="fill-current" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z"/></svg>
+          </a>
+          <ul className="bg-base-300 p-2">
+            <li><a href="/Pres/Allusions">Allusions</a></li>
+            <li><a href="/Pres/Conjunctions">Conjunctions</a></li>
+						<li><a href="/Pres/RightToRepair">Right To Repair</a></li>
+          </ul>
+        </li>
     </ul>
   </div>
   <div className="navbar-end">

@@ -48,7 +48,7 @@ export default function Gallery(){
 
 
 			<div class="card w-96 bg-base-300 shadow-xl">
-		  <figure><img className="p-4" src="https://m.media-amazon.com/images/I/71Q0E2DYf2L._AC_SY550_.jpg" alt="iPhone 12" /></figure>
+		  <figure><img className="p-4" src="https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-purple-select-2021?wid=940&hei=1112&fmt=png-alpha&.v=1617130317000" alt="iPhone 12" /></figure>
 		  <div class="card-body">
 		    <h2 class="card-title">iPhone 12</h2>
 		    <p>A fun way to acess your phone.</p>

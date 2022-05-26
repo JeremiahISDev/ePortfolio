@@ -16,7 +16,7 @@ export default function Nav(){
 <meta name="msapplication-config" content="/assets/browserconfig.xml"/>
 <meta name="theme-color" content="#e1b954"/>
 			</Head>
-		<div className="navbar bg-base-300">
+		<div className="navbar z-50 bg-base-300">
   <div className="navbar-start">
     <div className="dropdown">
       <label tabindex="0" className="btn btn-ghost lg:hidden">

@@ -2,7 +2,9 @@ import Gallery from '../components/Gallery'
 export default function Home() {
   return (
     <>
+    <img src="https://www.nicepng.com/png/detail/26-267331_software-development-software-development-banner-png.png"></img>
 			<div className="m-2 p-4">
+			
 				<h1 className="text-2xl md:text-3xl font-bold text-accent text-right">
 				أهلاً وسهلا أنا إرميا إيهاب صموئيل
 				</h1>

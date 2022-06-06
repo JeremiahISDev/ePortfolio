@@ -58,7 +58,8 @@ export default function Nav(){
 						<li><a href="/Pres/RightToRepair">Right To Repair</a></li>
           </ul>
         </li>
-        <li><a href="/Photoshoped">Photoshoped</a></li>
+              <li><a href="/Photoshoped">Photoshoped</a></li>
+              <li><a href="/Gallery">Gallery</a></li>
       </ul>
     </div>
     <a href="/" className="btn btn-ghost normal-case text-xl">ارميا ايهاب صموئيل</a>
@@ -99,7 +100,8 @@ export default function Nav(){
 						<li><a href="/Pres/RightToRepair">Right To Repair</a></li>
           </ul>
         </li>
-        <li><a href="/Photoshoped">Photoshoped</a></li>
+            <li><a href="/Photoshoped">Photoshoped</a></li>
+            <li><a href="/Gallery">Gallery</a></li>
     </ul>
   </div>
   <div className="navbar-end">
